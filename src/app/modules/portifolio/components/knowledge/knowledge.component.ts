@@ -30,6 +30,10 @@ export class KnowledgeComponent {
     {
       src: 'assets/icons/knowledge/angular.svg',
       alt: 'icone de conhecimento em angular'
+    },
+    {
+      src: 'assets/icons/knowledge/react.svg',
+      alt: 'icone de conhecimento em reactjs'
     }
   ])
 
