@@ -25,7 +25,7 @@ export class ProjectComponent {
       description: '<p>Agende as suas tarefas diárias</p>',
       links: [
         {
-          name: '',
+          name: 'Projeto de lista de tarefas',
           href: ''
         }
       ]
