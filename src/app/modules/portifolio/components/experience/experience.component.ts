@@ -14,7 +14,9 @@ export class ExperienceComponent {
      strong: "Desenvolvedor Front end Angular 2+",
      p: "B2ML Sistemas"
    },
-   text: "<p>Desenvolvimento front end utilizando o framework Angular 16 para um projeto de saúde pública </p>"
+   text: "<p>Desenvolvimento front end utilizando o framework Angular 16 para um projeto de gestão de saúde pública. " +
+     "Ferramentas utilizadas: Figma, Jira, Swagger, metodologia ágil: Scrum, Frameworks: Angular 16 e Angular material. " +
+     "Demandas eram recebidas pelo jira após reuniões de análise e refinamento. </p>"
  },
    {
      summary: {
